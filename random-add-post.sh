@@ -17,3 +17,4 @@ echo $(fortune) >> $diary_path
 
 git add $diary_path
 git commit -m "new diary at ${timestamp}"
+git push origin main
