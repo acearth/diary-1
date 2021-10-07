@@ -16,7 +16,7 @@ Just clone the project and run ```./random-add-post.sh``` by linux or macos CLI.
 1. Create website code by hugo; 
 2. Update posts by fortune;
 3. push to github and;
-4. trigger github action to deploy;
+4. trigger [github action](https://github.com/acearth/diary-1/blob/main/.github/workflows/publish.yml) to deploy;
 5. posts deployed to github pages;
 
 Check final page at https://acearth.github.io/diary-1/
